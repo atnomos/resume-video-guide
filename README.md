@@ -74,7 +74,7 @@ Inside Claude Code prompt (do this first):
 
 5. Paste This Prompt into Claude Code
 
-Using the Remotion skill and best practices (including Tailwind for styling), create a professional 60-second video resume for Wilfredo Valle. It should be modern motion graphics: minimalist, tech-forward, clean kinetic typography, subtle transitions (fades, scales, line reveals), dark navy background with Disney-inspired blue/teal accents.
+Using the Remotion skill and best practices (including Tailwind for styling), create a professional 60-second video resume for Wilfredo Valle. It should be modern motion graphics: minimalist, tech-forward, clean kinetic typography, subtle transitions (fades, scales, line reveals), dark navy background with company-inspired blue/teal accents.
 
 Duration: 60 seconds (55-65s ok). 1920x1080, 30fps.
 
@@ -128,7 +128,7 @@ Play in QuickTime / VLC
 - "Increase name font to 180px and add drop shadow for readability"
 - "Shorten summary to 12s, stagger bullets more dramatically"
 - "Lower music volume to 0.3 + add 1s fade-in"
-- "Add subtle sparkle/glow on Disney mentions"
+- "Add subtle sparkle/glow on company mentions"
 - "Make skills tags larger (text-5xl) and space them out"
 - "Use brighter teal accents (#00cfff) for better contrast"
 
