@@ -3,7 +3,7 @@ Modern motion graphics resume (Disney/Apple vibes) – Step-by-step guide (Feb 2
 
 Tested on MacBook Air (M-series) with Claude Code and Remotion.
 Goal: Create a polished 60-second video resume using AI prompting – no manual coding required.
-Author: wilfredo (@atnomos) – Sunnyvale, CA
+Author: wilfredo (@atnomos) – San Francisco, Ca.
 
 Prerequisites
 • Mac with Terminal access
