@@ -83,13 +83,13 @@ Style: Dark mode (#0a0a1f bg), accents #00aaff/#00d4ff, white/gray text. Sans-se
 Audio: Upbeat motivational instrumental (tech/innovation electronic, sync swells to highlights). Use <Audio src={staticFile("music.mp3")} volume={0.38} loop /> or suggest free Pixabay URL. No voiceover.
 
 Structure with timed scenes:
-- 0-10s: Intro – Large animated name "Wilfredo Valle" + "Technical Project Manager II | Disney Streaming"
-- 10-25s: Summary – Animate core paragraphs: technical expertise + people focus, innovation, collaborative leadership, inclusivity.
-- 25-45s: Experiences – Sequential animated bullets/icons: Disney Streaming (PM & Support), Children's Day School, Apple Technical Trainer.
-- 45-55s: Education & skills – BFA Web Design & New Media (Academy of Art University). Skills tags: Project Management, Leadership, Communication, Strategic Thinking, Risk Management, Problem Solving.
-- 55-60s: Close – "Let's build innovative solutions together" + LinkedIn connect prompt.
+- 0-10s: Intro – 
+- 10-25s: Summary – 
+- 25-45s: Experiences – 
+- 45-55s: Education & skills – 
+- 55-60s: Close –
 
-Tone: Confident, inclusive, innovative—subtle Disney magic + Apple creativity.
+Tone: Confident, inclusive, innovative—subtle creativity.
 
 First: Detailed scene-by-scene plan with timestamps, text, animation ideas, Tailwind classes.
 Then: Generate/update code (src/Composition.tsx, components). Use <Sequence>, spring(), Tailwind.
@@ -133,7 +133,7 @@ Play in QuickTime / VLC
 - "Use brighter teal accents (#00cfff) for better contrast"
 
 Result
-A standout LinkedIn / portfolio video highlighting your Disney + Apple experience.
+A standout LinkedIn / portfolio video highlighting your experience.
 Upload out/resume.mp4 and share!
 
 Made with ❤️ using Claude Code + Remotion (Feb 2026)
